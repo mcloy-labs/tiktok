@@ -49,7 +49,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/jeffjiang13/tiktok.git
+   git clone https://github.com/Dreamhearthub/tiktok.git
    ```
 2. Install NPM packages
    ```sh
@@ -77,9 +77,3 @@ Contributions are what make the open-source community such an amazing place to l
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-Name - [@twitter](https://twitter.com/jeffjiang9) - jeff.jiang13@gmail.com
-
-Project Link: [https://github.com/jeffjiang13/tiktok](https://github.com/jeffjiang13/tiktok)
